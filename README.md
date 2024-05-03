@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ureen-Jamil
-- 👀 I’m interested in c++
+- 👀 I’m interested in c++,app development, game design, game development
 - 🌱 I’m currently learning BS Software Engineering
 - 😄 Pronouns: Feminine (She, her, hers )
 - ⚡ Fun fact: I love to code as much as the women loves the makeup
